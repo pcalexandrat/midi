@@ -5,7 +5,7 @@
   --branca: #fff;
   --luz: rgb(229, 255, 0);
 }
-
+/* cores em rgb e cores em hexadecimal */
 body {
   align-items: center;
   background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
