@@ -2,7 +2,7 @@
   --cinza: #e5b2b2;
   --vermelha: #e93d50;
   --vermelha-escura: #af303f;
-  --branca: #141414;
+  --branca: #f9f1f1;
   --luz: rgb(0, 255, 34);
 }
 /* cores em rgb e cores em hexadecimal */
@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-  color: var(--branca);
+  color: rgb(0, 255, 34);
   margin-bottom: 20px;
   font-size: 2rem;
 }
