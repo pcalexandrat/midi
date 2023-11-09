@@ -18,13 +18,14 @@ body {
 
 h1 {
   color: rgb(0, 255, 34);
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   font-size: 2rem;
 }
 
 #titulo {
   color:#e93d50;
   margin: bottom 50px;
+  font-size:x-large;
 
 }
 
