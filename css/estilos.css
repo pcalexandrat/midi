@@ -23,12 +23,7 @@ h1 {
   font-size: 2rem;
 }
 
-#a{
-  background-color:rgb(113, 113, 167);
-  margin:0;
-  border-radius: 10px;
-  display:flex;
-}
+
 
 #titulo {
   color:#e93d50;
@@ -77,4 +72,11 @@ h1 {
 .tecla.ativa:focus,
 .tecla:active:focus {
   box-shadow: 3px 3px 0 var(--vermelha-escura) inset, 1px 1px 10px var(--luz);
+}
+
+#a{
+  background-color:rgb(113, 113, 167);
+  margin:0;
+  border-radius: 10px;
+  display:flex;
 }
